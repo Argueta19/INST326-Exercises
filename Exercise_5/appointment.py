@@ -16,7 +16,7 @@ class Appointment:
             end (tuple): sets the end time of appointment consists of two int where 1st is hours (24-format) and 2nd is minutes
     
         Returns: 
-                test2
+                test24
                 None
         """
         pass
